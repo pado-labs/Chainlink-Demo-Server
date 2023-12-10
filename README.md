@@ -2,7 +2,7 @@
 
 ## Demo Overview
 
-![image](https://github.com/pado-labs/Chainlink-Demo-Server/assets/17900089/f9bbe266-1562-4424-8f92-e7d2fac8f9b3)
+![image](OverviewArchChainlinkDemo.jpg)
 
 This is a demo code base for the Chainlink Hackathon. In general, a user can use this extension to retrieve his token amount from a CEX and prove that its value is greater than X. This proof will be submitted to the smart contract via the [EAS](https://attest.sh/)) attestation framework.
 
