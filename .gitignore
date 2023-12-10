@@ -1,0 +1,4 @@
+# dotenv environment variable files
+.env.enc
+
+node_modules/
